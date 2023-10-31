@@ -23,14 +23,14 @@ public class ArrayOccurance {
 	
 	public static void main(String[] args)throws InterruptedException,IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		int[] arr1 = new int[50];
-		int[] arr2 = new int[3];
+		int[] arr1 = new int[8];
+		int[] arr2 = new int[5];
 		System.out.println("Enter array 1 elements : ");
-		for(int i=0;i<50;i++) {
+		for(int i=0;i<8;i++) {
 			arr1[i]=Integer.parseInt(br.readLine());
 		}
 		System.out.println("Enter array 2 elements : ");
-		for(int i=0;i<3;i++) {
+		for(int i=0;i<5;i++) {
 			arr2[i]=Integer.parseInt(br.readLine());
 		}
 
