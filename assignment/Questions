@@ -1,0 +1,98 @@
+*Section 1: Basic Concepts*
+
+1. Write a Java program that takes two numbers as input and performs basic arithmetic operations (sum, difference, product, quotient).
+
+2. Create a program that generates a list of even numbers within a given range.
+
+3. Develop a program that checks if a given number is prime or not.
+
+4. Write a Java function to calculate the nth term of the Fibonacci sequence.
+
+5. Implement a program that converts temperature between Celsius and Fahrenheit scales.
+
+6. Create a function that finds the greatest common divisor (GCD) of two numbers.
+
+7. Write a program to print the multiplication table of a given number.
+
+8. Develop a program that generates a random password of a specified length.
+
+
+
+*Section 2: Strings and Lists*
+
+9. Write a Java function that counts the occurrences of a specific word in a given sentence.
+
+10. Implement a program that removes duplicates from a list while maintaining the original order.
+
+11. Create a function that returns the reverse of a string without using string slicing.
+
+12. Write a program that finds the longest word in a list of words.
+
+13. Develop a function that sorts a list of strings based on their lengths.
+
+14. Implement a program that takes a list of strings and capitalizes the first letter of each word.
+
+15. Create a function that determines whether two strings are anagrams.
+
+16. Write a program that removes all vowels from a given string.
+
+
+
+*Section 3: Functions*
+
+17. Implement a function to calculate the power of a number using recursion.
+
+18. Write a program that finds the factorial of a given number using a recursive function.
+
+19. Create a function that calculates the sum of digits in a given number.
+
+20. Develop a program that generates the prime factors of a given number.
+
+21. Write a function to compute the LCM (Least Common Multiple) of two numbers.
+
+22. Implement a program that checks if a given number is a palindrome.
+
+23. Create a function that converts a decimal number to binary.
+
+24. Write a program that calculates the area of different shapes (circle, rectangle, triangle) based on user input.
+
+
+
+*Section 4: Classes and Objects*
+
+25. Develop a class Person with attributes: name, age, and occupation.
+
+26. Write a program to calculate the total area of multiple rectangles using a class Rectangle.
+
+27. Create a class BankAccount with methods to deposit, withdraw, and display balance.
+
+28. Implement a program that simulates a simple library system using classes Book and Library.
+
+29. Develop a class Employee with attributes: name, position, and salary. Implement methods to give raises and display details.
+
+30. Write a program that implements a basic calculator using a class Calculator.
+
+31. Create a class hierarchy for different types of vehicles (car, bike, truck) with common and specific attributes.
+
+32. Implement a program that models a basic online shopping system using classes Product and Cart.
+
+
+
+*Section 5: Object-Oriented Programming*
+
+33. Develop a class hierarchy for a zoo with different types of animals, each having specific attributes and methods.
+
+34. Create a text-based adventure game with classes Player, Enemy, and Game.
+
+35. Implement a simple banking system with classes Account, SavingsAccount, and CurrentAccount.
+
+36. Develop a class Student with attributes: name, age, and a list of subjects. Implement methods to calculate GPA and display details.
+
+37. Write a program to manage a movie database using classes Movie and MovieDatabase.
+
+38. Create a class hierarchy for various electronic devices (phone, laptop, tablet) with common and specific features.
+
+39. Implement a program that models a basic inventory system using classes Product and Inventory.
+
+
+
