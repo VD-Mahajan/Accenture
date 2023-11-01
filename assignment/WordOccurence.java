@@ -13,7 +13,7 @@ public class WordOccurence {
 	
 	public static void main(String[] args) {
 		String str = "aaaabavishalaachdgfbbfb";
-		int count = occurenceOfWord(str,"a");
+		int count = occurenceOfWord(str,"fb");
 		System.out.println(count);
 	}
 }
