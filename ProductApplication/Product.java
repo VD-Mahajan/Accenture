@@ -8,7 +8,7 @@ abstract public class Product {
 		this.name=name;
 	}
 	
-	public static void search(Map<Product,Integer> inventory,String product) {
+	public static void searchProduct(Map<Product,Integer> inventory,String product) {
 		
 		if(inventory!=null && inventory.isEmpty()==false) {
 			for (Map.Entry<Product,Integer> element : inventory.entrySet()) {

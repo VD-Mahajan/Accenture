@@ -17,7 +17,7 @@ public class Client {
 		Bag.showBagNames();
 		System.out.print("Pen Name : ");
 		Pen.showPenNames();
-		Product.search(inventory,"Lenovo");
+		Product.searchProduct(inventory,"Lenovo");
 		
 	}
 	
