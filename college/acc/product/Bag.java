@@ -10,7 +10,7 @@ public class Bag extends Product{
 		this.name = name;
 		set.add(name);
 	}
-	
+
 	public static void showBagNames() {
 		
 		for(String element : set) {

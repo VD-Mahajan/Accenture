@@ -1,5 +1,5 @@
 package college.acc.product;
 
-public class Product {
+abstract public class Product {
 
 }

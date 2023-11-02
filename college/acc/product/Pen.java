@@ -11,7 +11,7 @@ public class Pen extends Product {
 		this.name = name;
 		set.add(name);
 	}
-	
+
 	public static void showPenNames() {
 		
 		for(String element : set) {
