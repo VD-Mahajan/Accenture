@@ -1,4 +1,4 @@
-package college.acc.product;
+package ProductApplication;
 import java.util.*;
 import java.util.Map.Entry;
 public class Show {

@@ -1,4 +1,4 @@
-package college.acc.product;
+package ProductApplication;
 
 import java.util.LinkedHashSet;
 import java.util.Set;
@@ -8,6 +8,7 @@ public class Pen extends Product {
 	private String name;
 	
 	public Pen(String name) {
+		super(name);
 		this.name = name;
 		set.add(name);
 	}

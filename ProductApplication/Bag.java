@@ -1,4 +1,4 @@
-package college.acc.product;
+package ProductApplication;
 import java.util.*;
 
 public class Bag extends Product{
@@ -7,6 +7,7 @@ public class Bag extends Product{
 	private String name;
 	
 	public Bag(String name) {
+		super(name);
 		this.name = name;
 		set.add(name);
 	}
@@ -17,6 +18,10 @@ public class Bag extends Product{
 			System.out.print(element+" ");
 		}
 		System.out.println();
+	}
+
+	public static String getName() {
+		return "nsjfd";
 	}
 	
 }

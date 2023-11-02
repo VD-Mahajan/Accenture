@@ -1,4 +1,4 @@
-package college.acc.product;
+package ProductApplication;
 import java.util.*;
 
 public class Client {
@@ -17,6 +17,7 @@ public class Client {
 		Bag.showBagNames();
 		System.out.print("Pen Name : ");
 		Pen.showPenNames();
+		Product.search(inventory,"Lenovo");
 		
 	}
 	
